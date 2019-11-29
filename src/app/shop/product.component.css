@@ -13,6 +13,8 @@
 @media (min-width: 700px) {
 	.media {
 		flex-direction: row;
+
+		color: red;
 	}
 }
 .media__img {
