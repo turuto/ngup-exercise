@@ -12,8 +12,9 @@
 }
 @media (min-width: 700px) {
 	.media {
-		align-content: center;
 		flex-direction: row;
+
+		color: red;
 	}
 }
 .media__img {
